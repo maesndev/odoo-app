@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="action_maesn_website" model="ir.actions.act_url">
+        <field name="name">maesn</field>
+        <field name="url">https://www.maesn.com/?utm_source=odoo_apps&amp;utm_medium=referral</field>
+        <field name="target">new</field>
+    </record>
+
+    <menuitem id="menu_maesn_root"
+              name="maesn"
+              action="action_maesn_website"
+              web_icon="maesn,static/description/icon.png"
+              sequence="90"/>
+</odoo>
