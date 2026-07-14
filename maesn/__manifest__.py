@@ -22,7 +22,7 @@ This module adds a maesn menu entry linking to
 https://www.maesn.com/integrations/odoo where you can configure your integrations.
 Using the maesn platform requires a maesn account (external service).
 """,
-    'version': '17.0.1.0.0',  # anpassen pro Odoo-Major-Version, z.B. 18.0.1.0.0
+    "version": "19.0.1.0.0",
     'category': 'Technical',  # Alternative: 'Accounting' fuer bessere Sichtbarkeit
     'author': 'maesn GmbH',
     'website': 'https://www.maesn.com/integrations/odoo',
