@@ -32,7 +32,7 @@ Using the maesn platform requires a maesn account (external service).
         'views/menu.xml',
     ],
     'images': [
-        'static/description/banner.png',
+        'static/description/icon.png',
     ],
     'installable': True,
     'application': False,
